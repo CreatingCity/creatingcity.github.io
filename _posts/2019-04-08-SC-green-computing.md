@@ -21,14 +21,14 @@ We did an interview for UFF webpage, **check it here:**
 
 
 
-- **Luiz Satoru Ochi** (Dr, IC/UFF - Coordenador Geral - Brasil) \\
-- **Phillippe Michelon** (PhD, Université d'Avignon - France & Consulado França no RJ - Brasil) \\
-- **Thierry Mautor** (PhD, Université de Versailles - France) \\
-- **Igor Machado Coelho** (Dr, IME - Universidade do Estado do Rio de Janeiro - Brasil) \\
-- **Vitor Nazário Coelho** (Dr, Fundador da Comunidade NeoResearch & Desenvolvedor Core da NEO, Worldwide. LabIC/IC-UFF - Brasil) \\
-- **Thays Aparecida de Oliveira** (Doutoranda, Universitat Pompeu Fabra - España) \\
-- **Edcarllos Santos** (Doutorando IC-UFF & Universidade Federal do Sul da Bahia - Brasil) \\
-- **Anderson Zudio** (Doutorando IC-UFF - Brasil) \\
+- **Luiz Satoru Ochi** (Dr, IC/UFF - Coordenador Geral - Brasil)
+- **Phillippe Michelon** (PhD, Université d'Avignon - France & Consulado França no RJ - Brasil)
+- **Thierry Mautor** (PhD, Université de Versailles - France)
+- **Igor Machado Coelho** (Dr, IME - Universidade do Estado do Rio de Janeiro - Brasil)
+- **Vitor Nazário Coelho** (Dr, Fundador da Comunidade NeoResearch & Desenvolvedor Core da NEO, Worldwide. LabIC/IC-UFF - Brasil)
+- **Thays Aparecida de Oliveira** (Doutoranda, Universitat Pompeu Fabra - España)
+- **Edcarllos Santos** (Doutorando IC-UFF & Universidade Federal do Sul da Bahia - Brasil)
+- **Anderson Zudio** (Doutorando IC-UFF - Brasil)
 - **Elias Lawrence** (Mestrando IC-UFF - Brasil)
 
 ![SC Green Computing Team](/assets/images/meet_janeiro19/team2.jpg)
