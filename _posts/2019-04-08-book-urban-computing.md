@@ -1,20 +1,17 @@
 ---
-title: "Smart City & Green Computing meeting"
+title: "Our book cover on Springer"
 search: false
 categories:
-  - meetings
-  - events
-  - smart city
-  - green Computing
+  - book
+  - springer
 last_modified_at: 2019-04-08T08:06:00-05:00
 ---
 
 We started to spread our book in partinership with Springer, is the second volume of the **Urban Computing Series**.
-Our group started to realize special sessions and workshops on conferences encompassing Smart Cities themes.
+Our group started realizing special sessions and workshops on conferences encompassing Smart Cities theme.
 This book was idealized from the exchange of knowledge with researchers and students in conferences,
 special sessions and workshop over two years.
-The opportunity to idealize this book was essencial to show works in **Smart and Digital Cities from
-Computational Intelligence to Applied Social Science**.
+The opportunity to idealize this book was essencial to show works in our book titled **Smart and Digital Cities from Computational Intelligence to Applied Social Science**.
 
 ![Book cover](/assets/images/book/frontpage.jpg)
 
@@ -31,21 +28,15 @@ This book presents up-to-date information on the future digital and smart cities
 About our Special Sessions and worskhops:
 
 Proceedings:
-1st Special Session Operations Research and Smart Cities at the XLIX SBPO 2017 –
-{https://creating.city/proceedings/sbpo2017/}
+1st Special Session Operations Research and Smart Cities at the XLIX SBPO 2017. [https://creating.city/proceedings/sbpo2017/](https://creating.city/proceedings/sbpo2017/)
 
 1st Workshop on Computational Intelligence and Smart Cities (ECISC 2017) held in the
-Congresso Brasileiro de Inteligência Computacional (CBIC 2017) –
-{https://creating.city/proceedings/wcisc2017/}
+Congresso Brasileiro de Inteligência Computacional (CBIC 2017). [https://creating.city/proceedings/wcisc2017/](https://creating.city/proceedings/wcisc2017/)
 
-1st  Special Session on CI for SC at the IEEE Symposium Series on Computational Intelligence –
-{https://creating.city/proceedings/ssci2017/}
+1st  Special Session on CI for SC at the IEEE Symposium Series on Computational Intelligence. [https://creating.city/proceedings/ssci2017/](https://creating.city/proceedings/ssci2017/)
 
-1st Special Session on CI for SC at the IEEE Symposium Series on Computational Intelligence –
-{https://creating.city/proceedings/ssci2017/}
+1st Special Session on CI for SC at the IEEE Symposium Series on Computational Intelligence. [https://creating.city/proceedings/ssci2017/](https://creating.city/proceedings/ssci2017/)
 
-2nd Workshop on Computational Intelligence and Smart Cities held in IEEE WCCI/IJCNN 2018 conferences.
-{https://creating.city/proceedings/wcisc2018/}
-
+2nd Workshop on Computational Intelligence and Smart Cities held in IEEE WCCI/IJCNN 2018 conferences. [https://creating.city/proceedings/wcisc2018/](https://creating.city/proceedings/wcisc2018/)
 
 ![Abstract](/assets/images/book/abstract.jpg)
