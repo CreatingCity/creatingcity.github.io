@@ -7,19 +7,17 @@ categories:
 last_modified_at: 2019-04-09T08:06:00-05:00
 ---
 
-Our group have a partneship with Laboratório de Inteligência Computacional do Instituto de Computação da
+Our group has a partneship with Laboratory of Computational Intelligence of Instituto de Computação da
 Universidade Federal Fluminense (UFF – LabIC) and we created the **"Smart City & Green Computing"** team.
 The team included researchers from different parts of Brazil, France and Spain.
 
 ![SC Green Computing Team](/assets/images/meet_janeiro19/team1.jpg)
 
-We did an interview for UFF webpage, **check it here:**
+Recently, an interview has been published in the UFF webpage, **check it here:**
 
 [http://www.uff.br/?q=noticias/06-02-2019/uff-se-destaca-internacionalmente-com-pesquisas-sobre-cidades-inteligentes](http://www.uff.br/?q=noticias/06-02-2019/uff-se-destaca-internacionalmente-com-pesquisas-sobre-cidades-inteligentes)
 
 **"Smart City & Green Computing"** team:
-
-
 
 - **Luiz Satoru Ochi** (Dr, IC/UFF - Coordenador Geral - Brasil)
 - **Phillippe Michelon** (PhD, Université d'Avignon - France & Consulado França no RJ - Brasil)
