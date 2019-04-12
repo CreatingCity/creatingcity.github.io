@@ -7,11 +7,11 @@ categories:
 last_modified_at: 2019-04-08T08:06:00-05:00
 ---
 
-We started to spread our book in partinership with Springer, is the second volume of the **Urban Computing Series**.
-Our group started realizing special sessions and workshops on conferences encompassing Smart Cities theme.
-This book was idealized from the exchange of knowledge with researchers and students in conferences,
-special sessions and workshop over two years.
-The opportunity to idealize this book was essencial to show works in our book titled **Smart and Digital Cities from Computational Intelligence to Applied Social Science**.
+We started to spread our book in partinership with Springer, it is the second volume of the **Urban Computing Series**.
+Our group started organizing special sessions and workshops on conferences encompassing Smart Cities theme.
+This book was idealized from the exchange of knowledge with researchers and students in those conferences,
+special sessions and workshop over the last two years.
+The opportunity to idealize this book was essential to concatenate and present state-of-the-art works in our book entitled **Smart and Digital Cities from Computational Intelligence to Applied Social Science**.
 
 ![Book cover](/assets/images/book/frontpage.jpg)
 
@@ -25,7 +25,7 @@ workshos that were organized regarding this topic;
 Abstract:
 This book presents up-to-date information on the future digital and smart cities. In particular, it describes novel insights about the use of computational intelligence techniques and decentralized technologies, covering urban aspects and services, cities governance and social sciences. The topics covered here range from the state-of-the-art computational techniques to current discussions regarding drones, blockchain, smart contracts and cryptocurrencies. The idealization of this material emerged with a journay of free knowledge exchange from a diverse group of authors, who met each other through four different events (workshops and special sessions) organized with the purpose of boosting the concepts surrounding smart cities. We believe that this book comprises innovative and precise information regarding state-of-the-art applications and ideas for the future of cities and society. It will surely be useful not only for the academic community but also to the industry professionals and city maners.
 
-About our Special Sessions and worskhops:
+Here is a summary about some of our special sessions and worskhops that inspired this book:
 
 Proceedings:
 1st Special Session Operations Research and Smart Cities at the XLIX SBPO 2017. [https://creating.city/proceedings/sbpo2017/](https://creating.city/proceedings/sbpo2017/)
