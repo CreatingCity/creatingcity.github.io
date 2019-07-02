@@ -63,7 +63,7 @@ team_row_bruno:
     <a href="https://www.researchgate.net/profile/Bruno_Coelho3"><i class="fab fa-researchgate" style="font-size: 1.5em;"></i></a>
     '
 team_row_elias:
-  - image_path: /assets/images/foto-elias.jpeg
+  - image_path: /assets/images/foto-elias.jpg
     alt: "Elias Lawrence Marques Júnior"
     excerpt: '<b>Elias Lawrence Marques Júnior</b><br />
     Master Student in Computer Science<br />
