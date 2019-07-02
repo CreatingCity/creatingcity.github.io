@@ -69,13 +69,7 @@ team_row_elias:
     Master Student in Computer Science<br />
     <b>Interests:</b> Optimization and Transportation for Smart Cities<br />   
     <b>Curriculum:</b> <a href="http://lattes.cnpq.br/5464019076424275">http://lattes.cnpq.br/5464019076424275</a> <br />
-    '
-    
-    <br /><br />
-    Robotics of Industry 4.0 involves mesh networks of autonomous devices.
-    Cross chain applications are of great interesting for connecting local network with public ones.
-
-    The design of a protocol should attend the requirements that modern industry and devices are demanding'        
+    '        
 ---
 ## Our history
 
