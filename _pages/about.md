@@ -61,7 +61,15 @@ team_row_bruno:
     <b>Interests:</b> Cross-chain applications for Robotics and IoT<br />
     <b>Curriculum:</b> <a href="http://lattes.cnpq.br/8649025399388231">http://lattes.cnpq.br/8649025399388231</a><br />
     <a href="https://www.researchgate.net/profile/Bruno_Coelho3"><i class="fab fa-researchgate" style="font-size: 1.5em;"></i></a>
-
+    '
+team_row_elias:
+  - image_path: /assets/images/foto-elias.jpeg
+    alt: "Elias Lawrence Marques Júnior"
+    excerpt: '<b>Elias Lawrence Marques Júnior</b><br />
+    Master Student in Computer Science<br />
+    <b>Interests:</b> Optimization and Transportation for Smart Cities<br />   
+    <b>Curriculum:</b> <a href="http://lattes.cnpq.br/5464019076424275">http://lattes.cnpq.br/5464019076424275</a> <br />
+    
     <br /><br />
     Robotics of Industry 4.0 involves mesh networks of autonomous devices.
     Cross chain applications are of great interesting for connecting local network with public ones.
@@ -93,3 +101,5 @@ In the last years, the team has been conducting research mostly in Brazil and Sp
 ### Collaborators
 
 {% include feature_row id="team_row_bruno" type="left" %}
+
+{% include feature_row id="team_row_elias" type="left" %}
