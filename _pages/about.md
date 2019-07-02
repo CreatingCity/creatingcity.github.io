@@ -52,7 +52,21 @@ team_row_satoru:
     <b>Curriculum:</b> <a href="http://lattes.cnpq.br/9171815778534257">http://lattes.cnpq.br/9171815778534257</a> <br />
     <a href="https://scholar.google.com.br/citations?hl=en&user=w3KB2MoAAAAJ"><i class="fas fa-chart-bar" style="font-size: 1.5em;"></i></a>
     <a href="https://www.researchgate.net/profile/Luiz_Ochi2"><i class="fab fa-researchgate" style="font-size: 1.5em;"></i></a>
-    '    
+    '
+team_row_bruno:
+  - image_path: /assets/images/foto-bruno.png
+    alt: "Prof. Dr. Bruno Nazário Coelho"
+    excerpt: '<b>Prof. Dr. Bruno Nazário Coelho</b><br />
+    PhD in Material Engineering<br />
+    <b>Interests:</b> Cross-chain applications for Robotics and IoT<br />
+    <b>Curriculum:</b> <a href="http://lattes.cnpq.br/8649025399388231">http://lattes.cnpq.br/8649025399388231</a><br />
+    <a href="https://www.researchgate.net/profile/Bruno_Coelho3"><i class="fab fa-researchgate" style="font-size: 1.5em;"></i></a>
+
+    <br /><br />
+    Robotics of Industry 4.0 involves mesh networks of autonomous devices.
+    Cross chain applications are of great interesting for connecting local network with public ones.
+
+    The design of a protocol should attend the requirements that modern industry and devices are demanding'        
 ---
 ## Our history
 
@@ -66,6 +80,8 @@ In the last years, the team has been conducting research mostly in Brazil and Sp
 
 ## Team
 
+### Founders
+
 {% include feature_row id="team_row_vitor" type="left" %}
 
 {% include feature_row id="team_row_igor" type="right" %}
@@ -73,3 +89,7 @@ In the last years, the team has been conducting research mostly in Brazil and Sp
 {% include feature_row id="team_row_thays" type="left" %}
 
 {% include feature_row id="team_row_satoru" type="right" %}
+
+### Collaborators
+
+{% include feature_row id="team_row_bruno" type="left" %}
