@@ -69,6 +69,7 @@ team_row_elias:
     Master Student in Computer Science<br />
     <b>Interests:</b> Optimization and Transportation for Smart Cities<br />   
     <b>Curriculum:</b> <a href="http://lattes.cnpq.br/5464019076424275">http://lattes.cnpq.br/5464019076424275</a> <br />
+    '
     
     <br /><br />
     Robotics of Industry 4.0 involves mesh networks of autonomous devices.
@@ -102,4 +103,4 @@ In the last years, the team has been conducting research mostly in Brazil and Sp
 
 {% include feature_row id="team_row_bruno" type="left" %}
 
-{% include feature_row id="team_row_elias" type="left" %}
+{% include feature_row id="team_row_elias" type="right" %}
