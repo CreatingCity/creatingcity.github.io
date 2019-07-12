@@ -11,7 +11,7 @@ We are very proud to announce the **Workshop on High Performance Computing for S
 
 ## Submissions
 
-Submissions should be sent via [EasyChair plataform](https://easychair.org/my/conference?conf=whpcsc2019) no later than 30th of August.
+Submissions should be sent via EasyChair platform [https://easychair.org/my/conference?conf=whpcsc2019](https://easychair.org/my/conference?conf=whpcsc2019) no later than 31th of August.
 
 ## Contact workshop organizers
 
