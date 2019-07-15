@@ -5,7 +5,7 @@ classes: wide
 toc: true
 ---
 
-We are very proud to announce the **Workshop on High Performance Computing for Smart Cities (WHPCSC 2019)** will be held as a workshop inside the [SBAC PAD 2019](http://sbac-pad.facom.ufms.br/).
+We are very proud to announce the **Workshop on High Performance Computing for Smart Cities (WHPCSC 2019)** will be held as a workshop inside the [SBAC PAD 2019](http://sbac-pad.facom.ufms.br/), on October 15-18, Campo Grande, MS.
 
 ## Call for papers
 
@@ -55,7 +55,7 @@ Suggested topics but not limited to:
 
 ## Submissions
 
-Submissions should be sent via EasyChair platform [https://easychair.org/my/conference?conf=whpcsc2019](https://easychair.org/my/conference?conf=whpcsc2019) no later than 31th of August.
+Submissions should be sent via EasyChair platform [https://easychair.org/my/conference?conf=whpcsc2019](https://easychair.org/my/conference?conf=whpcsc2019) no later than 31st of August.
 
 * Full papers following SBAC PAD templates described at [http://sbac-pad.facom.ufms.br/call-for-papers-1.html](http://sbac-pad.facom.ufms.br/call-for-papers-1.html)
 
@@ -84,3 +84,4 @@ Authors of selected papers will be invited to submit extended versions of their 
 * Said Hanafi (UPHF, France)
 * Simone Martins (UFF, Brazil)
 * Esteban Clua (UFF, Brazil)
+* Felipe França (COPPE Sistemas/UFRJ, Brazil)
