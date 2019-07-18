@@ -61,7 +61,6 @@ Submissions should be sent via EasyChair platform [https://easychair.org/my/conf
 
 Submissions must be in English, 8 pages maximum, following the IEEE conference formatting guidelines. To be published in the conference proceedings and to be eligible for publication at the IEEE Xplore, one of the authors must register at the full rate and present its work.
 
-Authors of selected papers will be invited to submit extended versions of their papers for publication on the Journal of Parallel and Distributed Computing.
 
 ## Contact workshop organizers
 
