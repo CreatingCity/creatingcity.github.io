@@ -74,6 +74,7 @@ Submissions must be in English, 8 pages maximum, following the IEEE conference f
 * Alexandre Nery (UFB, Brazil)
 * Bruno Nazário Coelho (UFSJ, Brazil)
 * Cristiana Bentes (Eng/UERJ, Brazil)
+* Cristiane Faria (IME/UERJ, Brazil)
 * Denise Stringhini (Unifesp)
 * Diego Brandao (CEFET-RJ, Brazil)
 * Esteban Clua (UFF, Brazil)
