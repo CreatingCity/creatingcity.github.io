@@ -82,6 +82,7 @@ Submissions must be in English, 8 pages maximum, following the IEEE conference f
 * Helena Ramalhinho Lourenço (Universitat Pompeu Fabra, Spain)
 * Leandro Marzulo (Google, USA)
 * Luciano Porto (IME/UERJ, Brazil)
+* Maria Clicia Castro (IME/UERJ, Brazil)
 * Miguel Oliver (Universitat Pompeu Fabra, Spain)
 * Pedro Henrique González (CEFET/RJ, Brazil)
 * Said Hanafi (UPHF, France)
