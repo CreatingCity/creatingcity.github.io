@@ -84,6 +84,7 @@ Submissions must be in English, 8 pages maximum, following the IEEE conference f
 * Luciano Porto (IME/UERJ, Brazil)
 * Maria Clicia Castro (IME/UERJ, Brazil)
 * Miguel Oliver (Universitat Pompeu Fabra, Spain)
+* Parimala Ruppa Thulasiram (UManitoba, Canada)
 * Pedro Henrique González (CEFET/RJ, Brazil)
 * Said Hanafi (UPHF, France)
 * Simone Martins (UFF, Brazil)
