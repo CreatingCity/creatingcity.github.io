@@ -17,13 +17,13 @@ Our Creating.City group is proud to show you the print version of our book **Sma
 
 [https://www.springer.com/gp/book/9783030122546](https://www.springer.com/gp/book/9783030122546)
 
-![Book cover](/assets/images/2019_08_bookcover/5.jpg)
+![Book cover](/assets/images/2019_08_bookcover/5.JPG)
 
 Let's check out the pictures of our book  from Springer in **Urban Computing Series**.
 
-![Book cover](/assets/images/2019_08_bookcover/4.jpg)
+![Book cover](/assets/images/2019_08_bookcover/4.JPG)
 
-![Book cover](/assets/images/2019_08_bookcover/1.jpg)
+![Book cover](/assets/images/2019_08_bookcover/1.JPG)
 
 ## Springer Book
 
@@ -31,7 +31,7 @@ After 2 years of working and partinership, we are proud to have the result of th
 
 A textbook and well illustrated by all the authors of the chapters of this project, covering the areas from Computational Intelligence to Applied Social Science.
 
-![Book cover](/assets/images/2019_08_bookcover/2.jpg)
+![Book cover](/assets/images/2019_08_bookcover/2.JPG)
 
 ## Support:
 - Springer [https://www.springer.com/gp/book/9783030122546](https://www.springer.com/gp/book/9783030122546)
