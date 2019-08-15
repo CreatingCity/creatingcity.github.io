@@ -15,7 +15,9 @@ excerpt: "Springer Cover Book"
 
 Our Creating.City group is proud to show you the print version of our book **Smart and Digital Cities from Computational Intelligence to Applied Social Science**.
 
-[https://www.springer.com/gp/book/9783030122546](https://www.springer.com/gp/book/9783030122546)
+<center>
+[Available at Springer](https://www.springer.com/gp/book/9783030122546)
+</center>
 
 <center>
 <img src="/assets/images/2019_08_bookcover/5.JPG" alt="Urban series books"
