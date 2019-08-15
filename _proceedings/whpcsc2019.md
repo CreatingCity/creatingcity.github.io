@@ -57,7 +57,7 @@ Suggested topics but not limited to:
 
 Submissions should be sent via EasyChair platform [https://easychair.org/my/conference?conf=whpcsc2019](https://easychair.org/my/conference?conf=whpcsc2019) no later than 31st of August.
 
-* Full papers following SBAC PAD templates described at [http://sbac-pad.facom.ufms.br/call-for-papers-1.html](http://sbac-pad.facom.ufms.br/call-for-papers-1.html)
+* Full papers following SBAC PAD templates described at [http://sbac-pad.facom.ufms.br/call-for-papers-1.html](http://sbac-pad.facom.ufms.br/call-for-papers-1.html). A clonable version at overleaf is also available [here](https://www.overleaf.com/read/tmqfmykkmdkg).
 
 Submissions must be in English, 8 pages maximum, following the IEEE conference formatting guidelines. To be published in the conference proceedings and to be eligible for publication at the IEEE Xplore, one of the authors must register at the full rate and present its work.
 
