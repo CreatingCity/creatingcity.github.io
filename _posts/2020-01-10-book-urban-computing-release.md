@@ -1,5 +1,5 @@
 ---
-title:  "Book released at Universidade Federal Fluminense"
+title:  "Book launch at Universidade Federal Fluminense"
 last_modified_at: 2020-01-10T16:01:04-04:00
 categories:
   - book
@@ -13,7 +13,7 @@ toc: false
 excerpt: "Springer Cover Book"
 ---
 
-Our Creating.City group is going to release our book **Smart and Digital Cities from Computational Intelligence to Applied Social Science** at Universidade Federal Fluminense on the February 17th, 2020.
+Creating.City group is going to launch our book **Smart and Digital Cities from Computational Intelligence to Applied Social Science** at Universidade Federal Fluminense on the February 17th, 2020.
 
 
 <center>
