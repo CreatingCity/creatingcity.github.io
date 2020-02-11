@@ -57,7 +57,7 @@ Suggested topics but not limited to:
 
 Submissions should be sent via EasyChair platform [https://easychair.org/my/conference?conf=whpcsc2019](https://easychair.org/my/conference?conf=whpcsc2019) no later than 31st of August.
 
-* Full papers following SBAC PAD templates described at [http://sbac-pad.facom.ufms.br/call-for-papers-1.html](http://sbac-pad.facom.ufms.br/call-for-papers-1.html)
+* Full papers following SBAC PAD templates described at [http://sbac-pad.facom.ufms.br/call-for-papers-1.html](http://sbac-pad.facom.ufms.br/call-for-papers-1.html). A clonable version at overleaf is also available [here](https://www.overleaf.com/read/tmqfmykkmdkg).
 
 Submissions must be in English, 8 pages maximum, following the IEEE conference formatting guidelines. To be published in the conference proceedings and to be eligible for publication at the IEEE Xplore, one of the authors must register at the full rate and present its work.
 
@@ -79,13 +79,17 @@ Submissions must be in English, 8 pages maximum, following the IEEE conference f
 * Diego Brandao (CEFET-RJ, Brazil)
 * Esteban Clua (UFF, Brazil)
 * Eyder Rios (UESPI, Brazil)
+* Flavia Bernardini (UFF, Brazil)
 * Felipe França (COPPE Sistemas/UFRJ, Brazil)
 * Helena Ramalhinho Lourenço (Universitat Pompeu Fabra, Spain)
+* José Viterbo Filho (UFF, Brazil)
 * Leandro Marzulo (Google, USA)
 * Luciano Porto (IME/UERJ, Brazil)
+* Marcia Pasin (UFSM, Brazil)
 * Maria Clicia Castro (IME/UERJ, Brazil)
 * Miguel Oliver (Universitat Pompeu Fabra, Spain)
 * Parimala Ruppa Thulasiram (UManitoba, Canada)
 * Pedro Henrique González (CEFET/RJ, Brazil)
+* Ruppa Thulasiram (University of Manitoba, Canada)
 * Said Hanafi (UPHF, France)
 * Simone Martins (UFF, Brazil)
