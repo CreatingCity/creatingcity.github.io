@@ -13,7 +13,7 @@ toc: false
 excerpt: "Springer Cover Book"
 ---
 
-Creating.City group is going to launch our book **Smart and Digital Cities from Computational Intelligence to Applied Social Science** at Universidade Federal Fluminense on the February 17th, 2020.
+Creating.City group is going to launch the book **Smart and Digital Cities from Computational Intelligence to Applied Social Science** at Universidade Federal Fluminense on the February 17th, 2020.
 
 
 <center>
@@ -59,6 +59,8 @@ Mediação: **Alexandre C. Barbosa, Bárbara Z. Azevedo, Danielle T. Tesima e Ri
 (Autores do Capítulo -  Smart Planning: Tools, Concepts, and Approaches for a Sustainable Digital Transformation)
 
 **17:40h Coquetel e confraternização entre os convidados**
+
+**Local: Auditório do Instituto de Computação da UFF** Endereço: Rua Passo da Pátria 156, Instituto de Computação, São Domingos - Niterói/RJ.
 
 ## Schedule [download](/mini-workshop-book-2020/17_02_20_ Schedule.pdf):
 
