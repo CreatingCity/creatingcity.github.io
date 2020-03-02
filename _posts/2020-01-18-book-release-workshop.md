@@ -1,6 +1,6 @@
 ---
 title:  "The outcome of the Book release and mini-workshop"
-last_modified_at: 2020-01-18T16:01:04-04:00
+last_modified_at: 2020-02-18T16:01:04-04:00
 categories:
   - book
 tags:
@@ -15,14 +15,13 @@ toc: false
 excerpt: "Springer Cover Book"
 ---
 
-Last Monday we realized our Book release and mini-workshop at the Universidade Federal Fluminense.
+Last February 17th we realized our Book release and mini-workshop at the [Universidade Federal Fluminense](http://www.uff.br/).
 The event was open to the whole community and was attended by professors,  researchers, students.
-As representatives of the Instituto Militar de Engenharia (IME),  Instituto de Tecnologia e Sociedade (ITS) and Instituto Aldeia.
+As representatives of the [Instituto Militar de Engenharia (IME)](http://www.eb.mil.br/web/ingresso/ime),  [Instituto de Tecnologia e Sociedade (ITS)](https://itsrio.org/en/en-home/) and [Instituto Aldeia](https://institutoaldeia.com.br/).
 
-We would like to thanks Instituto de Computação (IC/UFF) for oppening the doors to our event and the professors José Raphael Bokehi (IC Director) and Lúcia Drummond (Postgraduate Coordinator, at the Dean of Research, Graduate Studies and Innovation at Universidade Federal Fluminense).
+We would like to thanks [Instituto de Computação (IC/UFF)](http://www.ic.uff.br/index.php/pt/) for oppening the doors to our event and the professors José Raphael Bokehi (IC Director) and Lúcia Drummond (Postgraduate Coordinator, at the Dean of Research, Graduate Studies and Innovation at Universidade Federal Fluminense).
 
 The presentations were interesting and generated some debates around the subjects.
-
 
 
 <center>
