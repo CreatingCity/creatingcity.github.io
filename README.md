@@ -1,3 +1,17 @@
+## Welcome to Creating.City Website
+
+Instructions (install ruby and bundle):
+
+> $ bundle --version
+> Bundler version 2.2.32
+
+- `bundle config set --local path 'vendor/bundle'`
+- `bundle install`
+- `bundle exec jekyll serve`
+
+
+## Original Info
+
 This is a simple website generated using the repository [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes),
 online at [https://mmistakes.github.io/minimal-mistakes/](https://mmistakes.github.io/minimal-mistakes/).
 
