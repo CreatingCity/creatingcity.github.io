@@ -10,7 +10,7 @@ See more at: [http://cbic2017.org/Workshops.html](http://cbic2017.org/Workshops.
 ## Proceedings of the WCISC 2017 ([Download Proceedings](/wcisc2017/proceedings-wcisc2017.pdf))
 
 Diógenes Ferreira, Vitor Coelho, Sidelmo Silva.
-[Plataforma Open-hardware de baixo custo para teste de dispositivos IoT voltados para Smart Cities](/wcisc2017/CBIC2017-WCISC_paper_1.pdf). *p 48-57*
+[Plataforma Open-hardware de baixo custo para teste de dispositivos IoT voltados para Smart Cities](/wcisc2017/CBIC2017-WCISC_paper_1.pdf). *p 1-12*
 [HTML](/wcisc2017/CBIC2017-WCISC_paper_1.html)
 
 Marcia Pasin, Liza Lunardi Lemos, Rafael Fao de Moura, Ricardo Silveira Rodrigues, Emmanuel Katende Dinanga, Eric Thomas Zancanaro, Marina Laisa Mota Da Silva, Felipe Silvano Perini, Cleandro Flores De Gasperi, Leonardo de Abreu Schmid and Ezequiel Rodrigues Ribeiro.
